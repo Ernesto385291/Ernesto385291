@@ -10,7 +10,7 @@ Currently studying CS @ [UASLP](http://www.uaslp.mx/) and DS @ [Platzi](https://
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.py`
 - 👯 I’m looking to collaborate on **Open Source** and/or **fun** projects
 
-### 📬 Get in Touch
+### 📬  Get in Touch
 
 - GitHub: [https://github.com/Ernesto385291][github]
 - LinkedIn: [https://www.linkedin.com/in/erne-vizcaino/][linkedin]
