@@ -12,7 +12,5 @@ Currently studying CS @ [UASLP](http://www.uaslp.mx/) and DS @ [Platzi](https://
 
 ### 📬  Get in Touch
 
-- GitHub: https://github.com/Ernesto385291
 - LinkedIn: https://www.linkedin.com/in/erne-vizcaino/
-- Site: https://ernestovizcaino.com
-- E-mail: vizcaino.erne@gmail.com
+- Site: https://ernestovizcaino.vercel.com
