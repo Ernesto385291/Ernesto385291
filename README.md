@@ -10,7 +10,6 @@ I'm a passionate **Computer Science** student at [UASLP](http://www.uaslp.mx/) a
 - 🚀 **Always learning**: Diving deeper into Next.js, TypeScript, and AI-driven solutions.
 - ⚙️ **Tech stack**: `Next.js`, `TypeScript`, `React`, `React Native`, `JavaScript`, `Python`, `Tailwind CSS`.
 - 👯 **Open to collaborate**: On **open-source** projects, innovative startups, or anything that pushes the boundaries of tech.
-- 💡 **Current focus**: Building scalable, user-friendly apps for small businesses in LATAM, with a focus on performance and design.
 
 ### 📬 Get in Touch
 - **LinkedIn**: [erne-vizcaino](https://www.linkedin.com/in/erne-vizcaino/)
