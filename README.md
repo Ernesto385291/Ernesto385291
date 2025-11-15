@@ -13,5 +13,5 @@ I'm a passionate **Computer Science** student at [UASLP](http://www.uaslp.mx/) a
 
 ### 📬 Get in Touch
 - **LinkedIn**: [erne-vizcaino](https://www.linkedin.com/in/erne-vizcaino/)
-- **Portfolio**: [ernestovizcaino.vercel.com](https://ernestovizcaino.vercel.com)
+- **Portfolio**: [ernestovizcaino.vercel.com](https://ernestovizcaino.vercel.app)
 - **GitHub**: You're already here! Check out my repos below 👇
